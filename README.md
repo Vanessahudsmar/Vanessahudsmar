@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou a Vanessa Hudsmar
 
 💻 **Frontend Developer** | HTML • CSS • JavaScript • PHP • Laravel • Banco de dados • Git
-🚀 Criando interfaces modernas, responsivas e funcionais  
 🎯 Em busca de oportunidades como desenvolvedora júnior  
 
 ---
