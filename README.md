@@ -1,14 +1,13 @@
 # 👋 Olá, eu sou a Vanessa Hudsmar
 
-💻 **Frontend Developer** | HTML • CSS • JavaScript • React  
-🌱 Aprendendo TypeScript e consumo de APIs  
+💻 **Frontend Developer** | HTML • CSS • JavaScript • PHP • Laravel • Banco de dados • Git
 🚀 Criando interfaces modernas, responsivas e funcionais  
 🎯 Em busca de oportunidades como desenvolvedora júnior  
 
 ---
 
 ## 🧠 Tecnologias e Ferramentas
-- **Linguagens:** HTML, CSS, JavaScript  
+- **Linguagens:** HTML • CSS • JavaScript • PHP • Laravel • Banco de dados • Git
 - **Frameworks:** React  
 - **Ferramentas:** Git, GitHub, VS Code, Figma  
 - **Aprendendo atualmente:** TypeScript e APIs REST  
